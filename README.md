@@ -2,10 +2,10 @@
 Base de datos de mangas/herramienta personal para organizar una colección de mangas de forma local. 
 ---
 ## Funciones: 
-- Añadira mangas.
+- Añadir mangas.
 - Selección de mangas seguidos.
 - Busqueda por nombre.
-- Guardo local.
+- Guardado local.
 - Mantener solo mangas seguidos.
 ---
 ## Instalación y uso:
@@ -31,10 +31,11 @@ Pueden usar Visual Studio Code para ejecutar el proyecto:
 -Abrir la carpeta del proyecto.
 -Usar la terminal integrada.
 -Ejecutar python app.py 
-Nota: Tendrá que descargar las extensiones. 
+Nota: Tendran que descargar las extensiones. 
 
 ### Imagenes.
 Las imágenes completas no están incluidas en el repositorio. Para obtener los datos completos abra el enlace ubicado en el archivo covers completos.txt. Extraer el archivo zip y remplazar dentro de la carpeta del proyecto.
+---
 ## Datos. 
 -sitemap.txt: fuente de donde se obtuvieron los datos.
 -data.json: base de datos local utilizada por la aplicación.
