@@ -1,32 +1,50 @@
 # Manga Library.
+
 Base de datos de mangas/herramienta personal para organizar una colección de mangas de forma local. 
+
 ---
+
 ## Funciones: 
 - Añadir mangas.
 - Selección de mangas seguidos.
 - Busqueda por nombre.
 - Guardado local.
 - Mantener solo mangas seguidos.
+
 ---
+
 ## Instalación y uso:
+
 ### 1. Instalar python: 
+
 Descargar desde: https://www.python.org/downloads/
 
 Marque la casilla "Add python to path" durante la instalación.
+
 ---
+
 ### 2. Instalar dependencias. 
+
 Abrir terminal cmd o powershell y ejecutar:
 pip install flask
+
 ---
+
 ### 3. Ejecutar el servidor.
 
 En la carpeta del proyecto:
 Use el comando cd  ubicación del proyecto, por ejemplo, cd D:\Manga-library. Despues use el comando python app.py
+
 ---
+
 ### Abrir en el navegador.
+
 http://127.0.0.1:5000
+
 ---
+
 ### Opcional. 
+
 Pueden usar Visual Studio Code para ejecutar el proyecto: 
 - Abrir la carpeta del proyecto.
 - Usar la terminal integrada.
@@ -35,7 +53,9 @@ Pueden usar Visual Studio Code para ejecutar el proyecto:
 Nota: Tendrán que descargar las extensiones. 
 
 ### Imagenes.
+
 Las imágenes completas no están incluidas en el repositorio. Para obtener los datos completos abra el enlace ubicado en el archivo covers completos.txt. Extraer el archivo zip y remplazar dentro de la carpeta del proyecto.
+
 ---
 ## Datos. 
 - sitemap.txt: fuente de donde se obtuvieron los datos.
@@ -49,6 +69,7 @@ Las imágenes completas no están incluidas en el repositorio. Para obtener los 
 ✔ Uso local  
 
 ---
+
 ## Vista previa.
 ![Preview](covers/Vista%20previa%201.png)
 ![Preview](covers/Vista%20previa%202.png)
