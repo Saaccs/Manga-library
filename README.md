@@ -32,7 +32,7 @@ Pueden usar Visual Studio Code para ejecutar el proyecto:
 - Usar la terminal integrada.
 - Ejecutar python app.py
 
-Nota: Tendran que descargar las extensiones. 
+Nota: Tendrán que descargar las extensiones. 
 
 ### Imagenes.
 Las imágenes completas no están incluidas en el repositorio. Para obtener los datos completos abra el enlace ubicado en el archivo covers completos.txt. Extraer el archivo zip y remplazar dentro de la carpeta del proyecto.
