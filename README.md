@@ -46,6 +46,9 @@ Las imágenes completas no están incluidas en el repositorio. Para obtener los 
 ✔ Uso local  
 
 ---
+## Vista previa.
+![Preview](covers/Vista%20previa%201.png)
+![Preview](covers/Vista%20previa%202.png)
 
 ## 📎 Licencia
 Uso personal.
