@@ -28,9 +28,10 @@ http://127.0.0.1:5000
 ---
 ### Opcional. 
 Pueden usar Visual Studio Code para ejecutar el proyecto: 
--Abrir la carpeta del proyecto.
--Usar la terminal integrada.
--Ejecutar python app.py 
+- Abrir la carpeta del proyecto.
+- Usar la terminal integrada.
+- Ejecutar python app.py
+
 Nota: Tendran que descargar las extensiones. 
 
 ### Imagenes.
