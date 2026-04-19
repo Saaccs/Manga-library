@@ -1,14 +1,52 @@
+# Manga Library.
 Base de datos de mangas/ herramienta personal para organizar una colección de mangas de forma local. 
-Funciones: 
+---
+## Funciones: 
 - Añadira mangas.
 - Selección de mangas seguidos.
 - Busqueda por nombre.
 - Guardo local.
 - Mantener solo mangas seguidos.
-Uso:
-1. Instalar python.
-2. Instalar Flask.
-pip install flask.
-3. Ejecutar el servidor: python app.py
-4. Abrir el navegador http://127.0.0.1:5000
-5. Las imagenes completas no están incluidas en el repositorio ver el archivo 
+---
+## Instalación y uso:
+### 1. Instalar python: 
+Descargar desde: https://www.python.org/downloads/
+
+Marque la casilla "Add python to path" durante la instalación.
+---
+### 2. Instalar dependencias. 
+Abrir terminal cmd o powershell y ejecutar:
+pip install flask
+---
+### 3. Ejecutar el servidor.
+En la carpeta del proyeco: 
+Use el comando "cd  ubicación del proyecto-Ejemplo:D:\Manga-library" y despues el comando python app.py
+---
+### Abrir en el navegador.
+http://127.0.0.1:5000
+---
+### Opcional. 
+Pueden usar Visual Studio Code para ejecutar el proyecto: 
+-Abrir la carpeta del proyecto.
+-Usar la terminal integrada.
+-Ejecutar python app.py 
+Nota: Tendrá que descargar las extensiones. 
+
+### Imagenes.
+Las imágenes completas no están incluidas en el repositorio. Para obtener los datos completos abra el enlace ubicado en el archivo covers completos.txt. Extraer el archivo zip y remplazar dentro de la carpeta del proyecto.
+## Datos. 
+-sitemap.txt: fuente de donde se obtuvieron los datos.
+-data.json: base de datos local utilizada por la aplicación.
+
+## Notas. 
+-Este proyecto está pensado para uso personal.
+-Se recomienda usar imágenes en formato .webp con un tamaño de 300x450.
+# 📌 Estado del proyecto
+✔ Funcional  
+✔ Uso local  
+
+---
+
+## 📎 Licencia
+Uso personal.
+
