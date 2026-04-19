@@ -20,7 +20,7 @@ pip install flask
 ---
 ### 3. Ejecutar el servidor.
 
-En la carpeta del proyeco:
+En la carpeta del proyecto:
 Use el comando "cd  ubicación del proyecto-Ejemplo:D:\Manga-library" y despues el comando python app.py
 ---
 ### Abrir en el navegador.
