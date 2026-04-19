@@ -1,5 +1,5 @@
 # Manga Library.
-Base de datos de mangas/ herramienta personal para organizar una colección de mangas de forma local. 
+Base de datos de mangas/herramienta personal para organizar una colección de mangas de forma local. 
 ---
 ## Funciones: 
 - Añadira mangas.
