@@ -38,12 +38,12 @@ Nota: Tendrán que descargar las extensiones.
 Las imágenes completas no están incluidas en el repositorio. Para obtener los datos completos abra el enlace ubicado en el archivo covers completos.txt. Extraer el archivo zip y remplazar dentro de la carpeta del proyecto.
 ---
 ## Datos. 
--sitemap.txt: fuente de donde se obtuvieron los datos.
--data.json: base de datos local utilizada por la aplicación.
+- sitemap.txt: fuente de donde se obtuvieron los datos.
+- data.json: base de datos local utilizada por la aplicación.
 
 ## Notas. 
--Este proyecto está pensado para uso personal.
--Se recomienda usar imágenes en formato .webp con un tamaño de 300x450.
+- Este proyecto está pensado para uso personal.
+- Se recomienda usar imágenes en formato .webp con un tamaño de 300x450.
 # 📌 Estado del proyecto
 ✔ Funcional  
 ✔ Uso local  
