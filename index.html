@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Manga Library</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header>
+  <h1>📚 Mi Biblioteca de Manga</h1>
+
+  <input id="search" type="text" placeholder="Buscar manga..." />
+
+  <div class="filters">
+    <button id="allBtn">Todos</button>
+    <button id="followedBtn">Seguidos ⭐</button>
+  </div>
+
+  <div id="addManga">
+    <input id="newTitle" placeholder="Nombre del manga">
+    <input id="newImage" type="file" accept="image/*">
+    <button onclick="addManga()">➕ Añadir</button>
+
+    <div style="margin-top:10px;">
+      <button onclick="keepOnlyFollowed()" style="background:#064;">
+        ⭐ Mantener solo seguidos
+      </button>
+    </div>
+  </div>
+
+</header>
+
+<main>
+  <div id="list"></div>
+
+  <div class="pagination">
+    <button id="prevBtn">⬅</button>
+    <span id="pageInfo"></span>
+    <input type="number" id="pageInput" min="1" value="1">
+    <button id="nextBtn">➡</button>
+  </div>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

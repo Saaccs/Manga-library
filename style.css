@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+  text-align: center;
+}
+
+header {
+  padding: 20px;
+}
+
+#search {
+  padding: 10px;
+  width: 60%;
+  max-width: 400px;
+  border-radius: 8px;
+  border: none;
+}
+
+.filters {
+  margin: 10px;
+}
+
+.filters button {
+  margin: 5px;
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+  background: #333;
+  color: white;
+}
+
+#addManga {
+  margin-top: 10px;
+}
+
+#addManga input {
+  padding: 8px;
+  margin: 5px;
+  border-radius: 6px;
+  border: none;
+}
+
+#addManga button {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: none;
+  background: #444;
+  color: white;
+  cursor: pointer;
+}
+
+#list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 15px;
+  padding: 20px;
+}
+
+.card {
+  background: #222;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+textarea {
+  width: 100%;
+  margin-top: 5px;
+}
